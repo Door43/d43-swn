@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swn:home|Door43 (swn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swn|d43-swn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swn/archive/master.zip|d43-swn.zip]]
+
+**Recent Changes**
+{{changes>ns = swn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swn|Ethnologue data]]
+
